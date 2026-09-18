@@ -32,9 +32,9 @@ The complete set of 60 hands-on questions covers the following areas:
 hands-on-list/
 │
 ├── 1-file-mgmt/
-│   ├── Q1-file-links/
-│   ├── Q2-infinite-process/
-│   ├── Q3-file-desc-using-creat/
+│   ├── Ques-01-file-links/
+│   ├── Ques-02-infinite-process/
+│   ├── Ques-03-file-desc-using-creat/
 │   └── ...
 │
 ├── 2-process-mgmt/
