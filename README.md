@@ -1,14 +1,14 @@
-# CSE 513A — Software Systems
+# CSE 513A - Software Systems
 
 ## Hands-On Practicals
 
-A collection of hands-on practical experiments completed as a course requirement for **CSE 513A — Software Systems**.
+A collection of hands-on practical experiments completed as a course requirement for **CSE 513A - Software Systems**.
 
 The practicals focus on Linux/UNIX system programming and system-level mechanisms, covering file and process management, system calls, inter-process communication, timers, resource limits, multithreading, and signals.
 
 ## Environment
 
-* **Course:** CSE 513A — Software Systems
+* **Course:** CSE 513A - Software Systems
 * **OS:** Ubuntu on WSL 2
 * **Editor:** Visual Studio Code
 * **Compiler:** GCC
@@ -32,9 +32,9 @@ The complete set of 60 hands-on questions covers the following areas:
 hands-on-list/
 │
 ├── 1-file-mgmt/
-│   ├── Q1/
-│   ├── Q2/
-│   ├── Q3/
+│   ├── q-1/
+│   ├── q-2/
+│   ├── q-3/
 │   └── ...
 │
 ├── 2-process-mgmt/
