@@ -71,4 +71,4 @@ System-level information and behavior are examined using standard Linux interfac
 
 ## Purpose
 
-This repository serves as a record of the implementation and experimentation performed as part of **CSE 513A — Software Systems**, containing the source code, compiled programs, and associated files for the hands-on practical experiments.
+This repository serves as a record of the implementation and experimentation performed as part of **CSE 513A - Software Systems**, containing the source code, compiled programs, and associated files for the hands-on practical experiments.
