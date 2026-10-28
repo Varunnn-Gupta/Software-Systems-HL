@@ -1,0 +1,1 @@
+Run `./fifo_select` in one terminal. In another terminal, run `printf 'hello\n' > lab22_fifo`. The reader uses a nonblocking FIFO open so that `select()` can time out even before a writer opens the FIFO.

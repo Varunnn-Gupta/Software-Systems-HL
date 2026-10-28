@@ -1,0 +1,1 @@
+Compile both files. Start `./receiver` in one terminal, note its PID, and run `./sender PID` in another. The receiver stops. It cannot catch, block, or ignore SIGSTOP. Resume it using `kill -CONT PID` from another terminal.

@@ -1,0 +1,1 @@
+Compile both with `gcc tcp_server.c -o tcp_server` and `gcc tcp_client.c -o tcp_client`. Run `./tcp_server` on the server machine, then `./tcp_client SERVER_IP` on the client. For a same-machine test use `127.0.0.1`. For two machines, use the server's reachable IPv4 address and ensure port 5000 is allowed by the network firewall.

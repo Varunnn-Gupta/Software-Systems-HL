@@ -1,0 +1,1 @@
+This program uses Linux/glibc fields `msg_perm.__key` and `__msg_cbytes`, which are implementation-specific names. If your system headers expose different names, use the corresponding fields defined by your platform's `struct msqid_ds` and `struct ipc_perm`.

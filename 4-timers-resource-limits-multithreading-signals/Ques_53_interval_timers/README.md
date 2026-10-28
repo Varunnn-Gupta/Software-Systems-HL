@@ -1,0 +1,1 @@
+Compile each program separately. `ITIMER_REAL` counts wall-clock time and raises `SIGALRM`; `ITIMER_VIRTUAL` counts user CPU time and raises `SIGVTALRM`; `ITIMER_PROF` counts user plus system CPU time and raises `SIGPROF`. The requested initial expiry is 10 seconds and 10 microseconds. CPU-time timers require CPU activity to advance.

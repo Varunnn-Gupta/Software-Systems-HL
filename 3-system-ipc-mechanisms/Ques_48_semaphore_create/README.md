@@ -1,0 +1,1 @@
+Examples: `./create_semaphore binary 1` creates a binary semaphore initialized to 1; `./create_semaphore counting 2` creates a counting semaphore initialized to 2. Only one set with this key can exist at a time. Remove it before recreating it.
